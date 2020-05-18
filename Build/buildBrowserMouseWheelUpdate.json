@@ -1,9 +1,9 @@
 {
 "companyName": "Matt Legni",
 "productName": "Project Dwimmer",
-"dataUrl": "buildBrowserRpg2s.data.unityweb",
-"wasmCodeUrl": "buildBrowserRpg2s.wasm.code.unityweb",
-"wasmFrameworkUrl": "buildBrowserRpg2s.wasm.framework.unityweb",
+"dataUrl": "buildBrowserMouseWheelUpdate.data.unityweb",
+"wasmCodeUrl": "buildBrowserMouseWheelUpdate.wasm.code.unityweb",
+"wasmFrameworkUrl": "buildBrowserMouseWheelUpdate.wasm.framework.unityweb",
 "TOTAL_MEMORY": 268435456,
 "graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
 "webglContextAttributes": {"preserveDrawingBuffer": false},
