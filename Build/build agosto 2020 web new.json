@@ -1,9 +1,9 @@
 {
 "companyName": "Matt Legni",
 "productName": "Project Dwimmer",
-"dataUrl": "build agosto 2020 web.data.unityweb",
-"wasmCodeUrl": "build agosto 2020 web.wasm.code.unityweb",
-"wasmFrameworkUrl": "build agosto 2020 web.wasm.framework.unityweb",
+"dataUrl": "build agosto 2020 web new.data.unityweb",
+"wasmCodeUrl": "build agosto 2020 web new.wasm.code.unityweb",
+"wasmFrameworkUrl": "build agosto 2020 web new.wasm.framework.unityweb",
 "TOTAL_MEMORY": 268435456,
 "graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
 "webglContextAttributes": {"preserveDrawingBuffer": false},
